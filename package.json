@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "@walmartlabs/json-to-simple-graphql-schema": "^2.0.0",
+    "apollo-server": "^2.5.0",
+    "graphql": "^14.3.0",
+    "graphql-tools": "^4.0.4",
+    "json-to-graphql": "^0.1.1",
+    "lodash": "^4.17.11",
+    "nanoid": "^2.0.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.5",
+    "@babel/preset-env": "^7.4.5",
+    "@babel/register": "^7.4.4"
+  }
+}

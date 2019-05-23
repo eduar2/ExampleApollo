@@ -1,0 +1,971 @@
+[{
+	"_id": "26079",
+	"isActive": true,
+	"logo": "images/0.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "CORPULSE",
+	"phone": "+1 (936) 515-3622",
+	"address": "659 Monroe Street, Gardiner, Georgia, 9014",
+	"email": "corpulse@corpulse.com",
+	"properties": [{
+		"_id": "25857",
+		"address": "708 Lott Avenue, Gloucester, Virgin Islands, 5043",
+		"phone": "+1 (881) 541-3943",
+		"name": "Musanpoly",
+		"tennantId": "26079",
+		"state": "Nebraska",
+		"latitude": "-61.866094",
+		"longitude": "-29.87921",
+		"buildings": []
+	}, {
+		"_id": "34875",
+		"address": "124 Pine Street, Campo, Montana, 7782",
+		"phone": "+1 (850) 571-2954",
+		"name": "Zork",
+		"tennantId": "26079",
+		"state": "Guam",
+		"latitude": "-66.959054",
+		"longitude": "88.754213",
+		"buildings": []
+	}, {
+		"_id": "48742",
+		"address": "346 Madoc Avenue, Matheny, Massachusetts, 4235",
+		"phone": "+1 (917) 489-3104",
+		"name": "Earthpure",
+		"tennantId": "26079",
+		"state": "Utah",
+		"latitude": "56.404176",
+		"longitude": "-135.834884",
+		"buildings": []
+	}, {
+		"_id": "65473",
+		"address": "603 Horace Court, Sidman, Oregon, 1623",
+		"phone": "+1 (983) 576-2212",
+		"name": "Infotrips",
+		"tennantId": "26079",
+		"state": "Oklahoma",
+		"latitude": "-7.223416",
+		"longitude": "-78.459811",
+		"buildings": []
+	}, {
+		"_id": "47394",
+		"address": "231 Abbey Court, Dowling, Maine, 5511",
+		"phone": "+1 (863) 497-2008",
+		"name": "Sunclipse",
+		"tennantId": "26079",
+		"state": "Delaware",
+		"latitude": "63.986943",
+		"longitude": "37.831758",
+		"buildings": []
+	}, {
+		"_id": "83362",
+		"address": "911 Gelston Avenue, Ernstville, New Mexico, 3131",
+		"phone": "+1 (900) 475-2326",
+		"name": "Cowtown",
+		"tennantId": "26079",
+		"state": "Michigan",
+		"latitude": "43.04499",
+		"longitude": "-22.942848",
+		"buildings": []
+	}, {
+		"_id": "91429",
+		"address": "786 Crown Street, Dixonville, Federated States Of Micronesia, 764",
+		"phone": "+1 (812) 519-3658",
+		"name": "Emtrak",
+		"tennantId": "26079",
+		"state": "Arizona",
+		"latitude": "10.064787",
+		"longitude": "110.756369",
+		"buildings": []
+	}, {
+		"_id": "43021",
+		"address": "577 Mill Street, Bentonville, Vermont, 4932",
+		"phone": "+1 (998) 595-2522",
+		"name": "Eclipsent",
+		"tennantId": "26079",
+		"state": "Puerto Rico",
+		"latitude": "-8.131505",
+		"longitude": "-149.080081",
+		"buildings": []
+	}, {
+		"_id": "33388",
+		"address": "147 Conover Street, Goochland, North Carolina, 9831",
+		"phone": "+1 (945) 431-3185",
+		"name": "Techade",
+		"tennantId": "26079",
+		"state": "Wyoming",
+		"latitude": "52.206818",
+		"longitude": "-118.502638",
+		"buildings": []
+	}]
+}, {
+	"_id": "59274",
+	"isActive": false,
+	"logo": "images/1.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "ZERBINA",
+	"phone": "+1 (814) 534-3567",
+	"address": "269 Lake Avenue, Canby, Indiana, 9696",
+	"email": "zerbina@zerbina.net",
+	"properties": [{
+		"_id": "21213",
+		"address": "600 Hastings Street, Henrietta, Connecticut, 7856",
+		"phone": "+1 (844) 574-2947",
+		"name": "Ewaves",
+		"tennantId": "59274",
+		"state": "Florida",
+		"latitude": "46.444227",
+		"longitude": "-143.074736",
+		"buildings": []
+	}, {
+		"_id": "62079",
+		"address": "478 Cranberry Street, Basye, Ohio, 3539",
+		"phone": "+1 (867) 465-2282",
+		"name": "Pasturia",
+		"tennantId": "59274",
+		"state": "Virginia",
+		"latitude": "-63.20987",
+		"longitude": "153.989029",
+		"buildings": []
+	}, {
+		"_id": "11819",
+		"address": "496 Virginia Place, Finderne, New York, 5940",
+		"phone": "+1 (895) 460-3002",
+		"name": "Wrapture",
+		"tennantId": "59274",
+		"state": "Minnesota",
+		"latitude": "-60.474383",
+		"longitude": "59.657525",
+		"buildings": []
+	}, {
+		"_id": "18028",
+		"address": "570 Schenck Street, Ticonderoga, Colorado, 9791",
+		"phone": "+1 (848) 460-3578",
+		"name": "Lunchpod",
+		"tennantId": "59274",
+		"state": "Maryland",
+		"latitude": "-18.926167",
+		"longitude": "21.043268",
+		"buildings": []
+	}, {
+		"_id": "85314",
+		"address": "110 Reeve Place, Foscoe, Illinois, 6058",
+		"phone": "+1 (980) 547-2587",
+		"name": "Bugsall",
+		"tennantId": "59274",
+		"state": "Idaho",
+		"latitude": "-12.642756",
+		"longitude": "-160.029553",
+		"buildings": []
+	}, {
+		"_id": "00872",
+		"address": "386 Campus Road, Idledale, Louisiana, 2882",
+		"phone": "+1 (902) 493-3150",
+		"name": "Centrexin",
+		"tennantId": "59274",
+		"state": "South Carolina",
+		"latitude": "-35.951113",
+		"longitude": "-117.021547",
+		"buildings": []
+	}, {
+		"_id": "70974",
+		"address": "587 Lafayette Avenue, Independence, Alabama, 9441",
+		"phone": "+1 (817) 458-2866",
+		"name": "Goko",
+		"tennantId": "59274",
+		"state": "Kansas",
+		"latitude": "-51.242342",
+		"longitude": "-48.328064",
+		"buildings": []
+	}, {
+		"_id": "62720",
+		"address": "248 Pulaski Street, Geyserville, Texas, 7448",
+		"phone": "+1 (827) 472-3230",
+		"name": "Lunchpad",
+		"tennantId": "59274",
+		"state": "Palau",
+		"latitude": "-51.796078",
+		"longitude": "130.801764",
+		"buildings": []
+	}, {
+		"_id": "00603",
+		"address": "136 Seagate Avenue, Calpine, Wisconsin, 3659",
+		"phone": "+1 (905) 404-3145",
+		"name": "Mobildata",
+		"tennantId": "59274",
+		"state": "Missouri",
+		"latitude": "78.800125",
+		"longitude": "-158.54504",
+		"buildings": []
+	}]
+}, {
+	"_id": "83860",
+	"isActive": false,
+	"logo": "images/2.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "ZOARERE",
+	"phone": "+1 (991) 516-2534",
+	"address": "730 Bragg Street, Stouchsburg, Arkansas, 495",
+	"email": "zoarere@zoarere.me",
+	"properties": [{
+		"_id": "74938",
+		"address": "165 Legion Street, Fontanelle, Washington, 1853",
+		"phone": "+1 (986) 443-3574",
+		"name": "Zialactic",
+		"tennantId": "83860",
+		"state": "New Jersey",
+		"latitude": "-45.532534",
+		"longitude": "55.056417",
+		"buildings": []
+	}, {
+		"_id": "21270",
+		"address": "946 Jerome Avenue, Levant, Marshall Islands, 6508",
+		"phone": "+1 (947) 504-2264",
+		"name": "Xyqag",
+		"tennantId": "83860",
+		"state": "Northern Mariana Islands",
+		"latitude": "-35.551431",
+		"longitude": "-15.741141",
+		"buildings": []
+	}, {
+		"_id": "82432",
+		"address": "563 Rochester Avenue, Winston, New Hampshire, 5496",
+		"phone": "+1 (873) 478-3061",
+		"name": "Adornica",
+		"tennantId": "83860",
+		"state": "North Dakota",
+		"latitude": "-14.250928",
+		"longitude": "159.479292",
+		"buildings": []
+	}, {
+		"_id": "24184",
+		"address": "313 Ryder Avenue, Rote, Mississippi, 1233",
+		"phone": "+1 (894) 482-2638",
+		"name": "Strozen",
+		"tennantId": "83860",
+		"state": "California",
+		"latitude": "-35.81421",
+		"longitude": "5.052144",
+		"buildings": []
+	}, {
+		"_id": "15448",
+		"address": "968 Bergen Court, Longbranch, Hawaii, 4977",
+		"phone": "+1 (801) 422-3450",
+		"name": "Exospeed",
+		"tennantId": "83860",
+		"state": "District Of Columbia",
+		"latitude": "63.181656",
+		"longitude": "140.578284",
+		"buildings": []
+	}, {
+		"_id": "41225",
+		"address": "303 Driggs Avenue, Orick, Iowa, 5665",
+		"phone": "+1 (840) 569-3113",
+		"name": "Gink",
+		"tennantId": "83860",
+		"state": "Georgia",
+		"latitude": "30.13557",
+		"longitude": "-101.987005",
+		"buildings": []
+	}, {
+		"_id": "09264",
+		"address": "663 Jamison Lane, Mapletown, Rhode Island, 1277",
+		"phone": "+1 (820) 502-3081",
+		"name": "Talkola",
+		"tennantId": "83860",
+		"state": "West Virginia",
+		"latitude": "-45.95265",
+		"longitude": "86.59907",
+		"buildings": []
+	}, {
+		"_id": "38491",
+		"address": "922 Lexington Avenue, Nadine, Alaska, 5211",
+		"phone": "+1 (922) 565-3994",
+		"name": "Sulfax",
+		"tennantId": "83860",
+		"state": "South Dakota",
+		"latitude": "-32.476116",
+		"longitude": "114.85609",
+		"buildings": []
+	}, {
+		"_id": "98613",
+		"address": "625 Herzl Street, Gordon, Virgin Islands, 2030",
+		"phone": "+1 (889) 519-2664",
+		"name": "Portalis",
+		"tennantId": "83860",
+		"state": "Nebraska",
+		"latitude": "-9.541779",
+		"longitude": "169.015243",
+		"buildings": []
+	}]
+}, {
+	"_id": "41256",
+	"isActive": true,
+	"logo": "images/3.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "TROLLERY",
+	"phone": "+1 (928) 460-3319",
+	"address": "468 Matthews Place, Robinson, Montana, 7420",
+	"email": "trollery@trollery.info",
+	"properties": [{
+		"_id": "66764",
+		"address": "873 Falmouth Street, Franklin, Guam, 1763",
+		"phone": "+1 (894) 597-2439",
+		"name": "Temorak",
+		"tennantId": "41256",
+		"state": "Maine",
+		"latitude": "-28.350485",
+		"longitude": "-170.455415",
+		"buildings": []
+	}, {
+		"_id": "33190",
+		"address": "444 Baughman Place, Croom, Utah, 6442",
+		"phone": "+1 (856) 424-2234",
+		"name": "Paragonia",
+		"tennantId": "41256",
+		"state": "New Mexico",
+		"latitude": "-84.075958",
+		"longitude": "1.417913",
+		"buildings": []
+	}, {
+		"_id": "33796",
+		"address": "824 Bay Parkway, Rivereno, Oklahoma, 9936",
+		"phone": "+1 (888) 466-3869",
+		"name": "Dentrex",
+		"tennantId": "41256",
+		"state": "Federated States Of Micronesia",
+		"latitude": "-60.230492",
+		"longitude": "127.057262",
+		"buildings": []
+	}, {
+		"_id": "35299",
+		"address": "854 Seigel Court, Fostoria, Delaware, 9559",
+		"phone": "+1 (858) 432-3912",
+		"name": "Comtest",
+		"tennantId": "41256",
+		"state": "Vermont",
+		"latitude": "-26.347873",
+		"longitude": "88.172348",
+		"buildings": []
+	}, {
+		"_id": "72482",
+		"address": "235 India Street, Wakarusa, Michigan, 4412",
+		"phone": "+1 (810) 480-3091",
+		"name": "Furnigeer",
+		"tennantId": "41256",
+		"state": "North Carolina",
+		"latitude": "67.732693",
+		"longitude": "64.560234",
+		"buildings": []
+	}, {
+		"_id": "03122",
+		"address": "138 Elmwood Avenue, Catharine, Arizona, 1485",
+		"phone": "+1 (867) 587-2370",
+		"name": "Accupharm",
+		"tennantId": "41256",
+		"state": "Indiana",
+		"latitude": "73.039306",
+		"longitude": "-80.083819",
+		"buildings": []
+	}, {
+		"_id": "12751",
+		"address": "535 Lyme Avenue, Leming, Puerto Rico, 2418",
+		"phone": "+1 (885) 497-3317",
+		"name": "Quadeebo",
+		"tennantId": "41256",
+		"state": "American Samoa",
+		"latitude": "28.501558",
+		"longitude": "50.859489",
+		"buildings": []
+	}, {
+		"_id": "35841",
+		"address": "330 Atkins Avenue, Slovan, Wyoming, 9958",
+		"phone": "+1 (812) 534-3733",
+		"name": "Comtract",
+		"tennantId": "41256",
+		"state": "Pennsylvania",
+		"latitude": "-12.925455",
+		"longitude": "-36.49509",
+		"buildings": []
+	}, {
+		"_id": "14999",
+		"address": "211 Gunther Place, Clarktown, Connecticut, 4815",
+		"phone": "+1 (877) 438-2116",
+		"name": "Pharmacon",
+		"tennantId": "41256",
+		"state": "Florida",
+		"latitude": "89.086369",
+		"longitude": "-126.363995",
+		"buildings": []
+	}]
+}, {
+	"_id": "65814",
+	"isActive": true,
+	"logo": "images/4.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "KNOWLYSIS",
+	"phone": "+1 (943) 422-3377",
+	"address": "124 Woodpoint Road, Martinsville, Ohio, 9843",
+	"email": "knowlysis@knowlysis.ca",
+	"properties": [{
+		"_id": "41320",
+		"address": "386 Ridgewood Avenue, Bagtown, Virginia, 638",
+		"phone": "+1 (959) 581-3656",
+		"name": "Centice",
+		"tennantId": "65814",
+		"state": "Illinois",
+		"latitude": "52.410834",
+		"longitude": "-106.42514",
+		"buildings": []
+	}, {
+		"_id": "66671",
+		"address": "914 Paerdegat Avenue, Biehle, Minnesota, 3157",
+		"phone": "+1 (992) 600-3867",
+		"name": "Sonique",
+		"tennantId": "65814",
+		"state": "Louisiana",
+		"latitude": "77.366998",
+		"longitude": "140.312314",
+		"buildings": []
+	}, {
+		"_id": "28999",
+		"address": "787 Duryea Place, Glenville, Maryland, 1692",
+		"phone": "+1 (847) 486-2752",
+		"name": "Plasmox",
+		"tennantId": "65814",
+		"state": "Alabama",
+		"latitude": "-34.789446",
+		"longitude": "-77.09027",
+		"buildings": []
+	}, {
+		"_id": "83701",
+		"address": "470 Bond Street, Spokane, Idaho, 9090",
+		"phone": "+1 (951) 584-3481",
+		"name": "Insurity",
+		"tennantId": "65814",
+		"state": "Texas",
+		"latitude": "-59.484017",
+		"longitude": "173.700666",
+		"buildings": []
+	}, {
+		"_id": "59254",
+		"address": "390 Dakota Place, Cavalero, South Carolina, 9243",
+		"phone": "+1 (887) 597-2856",
+		"name": "Columella",
+		"tennantId": "65814",
+		"state": "Wisconsin",
+		"latitude": "76.181026",
+		"longitude": "116.03477",
+		"buildings": []
+	}, {
+		"_id": "28546",
+		"address": "598 Williamsburg Street, Chemung, Kansas, 5606",
+		"phone": "+1 (998) 554-2770",
+		"name": "Grainspot",
+		"tennantId": "65814",
+		"state": "Arkansas",
+		"latitude": "-55.849789",
+		"longitude": "-52.800545",
+		"buildings": []
+	}, {
+		"_id": "73746",
+		"address": "685 Barwell Terrace, Grantville, Palau, 9660",
+		"phone": "+1 (871) 471-3949",
+		"name": "Bluplanet",
+		"tennantId": "65814",
+		"state": "Tennessee",
+		"latitude": "21.528748",
+		"longitude": "124.667617",
+		"buildings": []
+	}, {
+		"_id": "91984",
+		"address": "334 Tapscott Street, Ronco, Missouri, 9913",
+		"phone": "+1 (924) 427-3903",
+		"name": "Handshake",
+		"tennantId": "65814",
+		"state": "Kentucky",
+		"latitude": "-31.036318",
+		"longitude": "-30.154359",
+		"buildings": []
+	}, {
+		"_id": "95534",
+		"address": "695 Hewes Street, Manitou, Washington, 1467",
+		"phone": "+1 (943) 427-3944",
+		"name": "Zytrac",
+		"tennantId": "65814",
+		"state": "New Jersey",
+		"latitude": "20.316844",
+		"longitude": "-99.283799",
+		"buildings": []
+	}]
+}, {
+	"_id": "48306",
+	"isActive": true,
+	"logo": "images/5.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "VANTAGE",
+	"phone": "+1 (966) 480-2715",
+	"address": "393 Hanover Place, Coinjock, Marshall Islands, 5297",
+	"email": "vantage@vantage.org",
+	"properties": [{
+		"_id": "52134",
+		"address": "416 Grove Place, Brandywine, Northern Mariana Islands, 389",
+		"phone": "+1 (926) 504-3397",
+		"name": "Micronaut",
+		"tennantId": "48306",
+		"state": "Hawaii",
+		"latitude": "72.050326",
+		"longitude": "150.922821",
+		"buildings": []
+	}, {
+		"_id": "57290",
+		"address": "242 Dunham Place, Katonah, North Dakota, 1464",
+		"phone": "+1 (921) 539-2834",
+		"name": "Petigems",
+		"tennantId": "48306",
+		"state": "Iowa",
+		"latitude": "-51.504052",
+		"longitude": "45.084791",
+		"buildings": []
+	}, {
+		"_id": "43536",
+		"address": "443 Essex Street, Masthope, California, 9695",
+		"phone": "+1 (913) 584-3594",
+		"name": "Deepends",
+		"tennantId": "48306",
+		"state": "Rhode Island",
+		"latitude": "5.45637",
+		"longitude": "78.442085",
+		"buildings": []
+	}, {
+		"_id": "94213",
+		"address": "338 Willoughby Avenue, Fidelis, District Of Columbia, 8491",
+		"phone": "+1 (986) 422-3105",
+		"name": "Netropic",
+		"tennantId": "48306",
+		"state": "Alaska",
+		"latitude": "35.680901",
+		"longitude": "165.614872",
+		"buildings": []
+	}, {
+		"_id": "96977",
+		"address": "972 Stuart Street, Mulino, Georgia, 7723",
+		"phone": "+1 (833) 424-2681",
+		"name": "Zentix",
+		"tennantId": "48306",
+		"state": "Virgin Islands",
+		"latitude": "87.211725",
+		"longitude": "-109.304901",
+		"buildings": []
+	}, {
+		"_id": "87916",
+		"address": "230 Herkimer Place, Northridge, West Virginia, 3662",
+		"phone": "+1 (973) 424-2452",
+		"name": "Bovis",
+		"tennantId": "48306",
+		"state": "Montana",
+		"latitude": "-78.992773",
+		"longitude": "-97.69418",
+		"buildings": []
+	}, {
+		"_id": "33675",
+		"address": "547 Prospect Avenue, Williamson, South Dakota, 2127",
+		"phone": "+1 (920) 467-2940",
+		"name": "Helixo",
+		"tennantId": "48306",
+		"state": "Massachusetts",
+		"latitude": "-78.361813",
+		"longitude": "-52.80001",
+		"buildings": []
+	}, {
+		"_id": "97229",
+		"address": "810 Hillel Place, Loretto, Nebraska, 3756",
+		"phone": "+1 (868) 575-3274",
+		"name": "Olympix",
+		"tennantId": "48306",
+		"state": "Oregon",
+		"latitude": "-80.547199",
+		"longitude": "-10.612434",
+		"buildings": []
+	}, {
+		"_id": "05804",
+		"address": "478 Schenck Avenue, Vernon, Guam, 4574",
+		"phone": "+1 (810) 460-3975",
+		"name": "Bristo",
+		"tennantId": "48306",
+		"state": "Maine",
+		"latitude": "64.099306",
+		"longitude": "-157.790212",
+		"buildings": []
+	}]
+}, {
+	"_id": "41813",
+	"isActive": true,
+	"logo": "images/6.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "OBONES",
+	"phone": "+1 (947) 572-2454",
+	"address": "997 Bowery Street, Helen, Utah, 4070",
+	"email": "obones@obones.co.uk",
+	"properties": [{
+		"_id": "89334",
+		"address": "238 Veronica Place, Sardis, New Mexico, 1262",
+		"phone": "+1 (855) 505-3163",
+		"name": "Kineticut",
+		"tennantId": "41813",
+		"state": "Michigan",
+		"latitude": "-1.816706",
+		"longitude": "-25.335458",
+		"buildings": []
+	}, {
+		"_id": "86805",
+		"address": "784 Sullivan Place, Norris, Federated States Of Micronesia, 3679",
+		"phone": "+1 (828) 456-2931",
+		"name": "Bluegrain",
+		"tennantId": "41813",
+		"state": "Arizona",
+		"latitude": "-34.025897",
+		"longitude": "158.532927",
+		"buildings": []
+	}, {
+		"_id": "82302",
+		"address": "991 Llama Court, Winesburg, Vermont, 2404",
+		"phone": "+1 (995) 562-3720",
+		"name": "Kindaloo",
+		"tennantId": "41813",
+		"state": "Puerto Rico",
+		"latitude": "-25.441925",
+		"longitude": "-151.602177",
+		"buildings": []
+	}, {
+		"_id": "21684",
+		"address": "414 Martense Street, Villarreal, North Carolina, 1802",
+		"phone": "+1 (832) 596-2419",
+		"name": "Tetak",
+		"tennantId": "41813",
+		"state": "Wyoming",
+		"latitude": "-20.397649",
+		"longitude": "57.297697",
+		"buildings": []
+	}, {
+		"_id": "57901",
+		"address": "442 Bayview Avenue, Clinton, Indiana, 7198",
+		"phone": "+1 (905) 579-3598",
+		"name": "Zaj",
+		"tennantId": "41813",
+		"state": "Connecticut",
+		"latitude": "-14.533904",
+		"longitude": "140.595166",
+		"buildings": []
+	}, {
+		"_id": "12211",
+		"address": "210 Radde Place, Belvoir, American Samoa, 9400",
+		"phone": "+1 (894) 459-3189",
+		"name": "Cosmosis",
+		"tennantId": "41813",
+		"state": "Ohio",
+		"latitude": "-68.233908",
+		"longitude": "125.342635",
+		"buildings": []
+	}, {
+		"_id": "77622",
+		"address": "109 Polhemus Place, Ogema, Pennsylvania, 3798",
+		"phone": "+1 (896) 561-3357",
+		"name": "Phormula",
+		"tennantId": "41813",
+		"state": "New York",
+		"latitude": "-88.666057",
+		"longitude": "109.342628",
+		"buildings": []
+	}, {
+		"_id": "96325",
+		"address": "560 Hutchinson Court, Ebro, Florida, 5485",
+		"phone": "+1 (828) 548-3344",
+		"name": "Exoplode",
+		"tennantId": "41813",
+		"state": "Colorado",
+		"latitude": "78.506709",
+		"longitude": "-82.214524",
+		"buildings": []
+	}, {
+		"_id": "73320",
+		"address": "319 Williams Court, Cuylerville, Virginia, 3756",
+		"phone": "+1 (886) 577-2565",
+		"name": "Ceprene",
+		"tennantId": "41813",
+		"state": "Illinois",
+		"latitude": "-85.531974",
+		"longitude": "46.072388",
+		"buildings": []
+	}]
+}, {
+	"_id": "81995",
+	"isActive": true,
+	"logo": "images/7.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "IMKAN",
+	"phone": "+1 (848) 492-3674",
+	"address": "559 Boardwalk , Lutsen, Minnesota, 9683",
+	"email": "imkan@imkan.io",
+	"properties": [{
+		"_id": "47959",
+		"address": "849 Clark Street, Clay, Louisiana, 1487",
+		"phone": "+1 (904) 559-3378",
+		"name": "Comstruct",
+		"tennantId": "81995",
+		"state": "South Carolina",
+		"latitude": "26.377707",
+		"longitude": "-107.633095",
+		"buildings": []
+	}, {
+		"_id": "72008",
+		"address": "502 Evergreen Avenue, Gorst, Alabama, 5197",
+		"phone": "+1 (963) 561-2591",
+		"name": "Shopabout",
+		"tennantId": "81995",
+		"state": "Kansas",
+		"latitude": "75.72204",
+		"longitude": "-82.138477",
+		"buildings": []
+	}, {
+		"_id": "16285",
+		"address": "813 Beverley Road, Lithium, Texas, 4010",
+		"phone": "+1 (939) 539-3287",
+		"name": "Zolarity",
+		"tennantId": "81995",
+		"state": "Palau",
+		"latitude": "24.200897",
+		"longitude": "170.907119",
+		"buildings": []
+	}, {
+		"_id": "54502",
+		"address": "689 Logan Street, Toftrees, Wisconsin, 4737",
+		"phone": "+1 (826) 530-2671",
+		"name": "Centuria",
+		"tennantId": "81995",
+		"state": "Missouri",
+		"latitude": "-85.08491",
+		"longitude": "160.05936",
+		"buildings": []
+	}, {
+		"_id": "63838",
+		"address": "524 Williams Place, Lawrence, Arkansas, 2302",
+		"phone": "+1 (883) 579-2724",
+		"name": "Biotica",
+		"tennantId": "81995",
+		"state": "Washington",
+		"latitude": "-88.434687",
+		"longitude": "-0.498406",
+		"buildings": []
+	}, {
+		"_id": "17901",
+		"address": "534 Jay Street, Bowden, Tennessee, 2689",
+		"phone": "+1 (917) 577-3007",
+		"name": "Accruex",
+		"tennantId": "81995",
+		"state": "Marshall Islands",
+		"latitude": "-69.231759",
+		"longitude": "53.926544",
+		"buildings": []
+	}, {
+		"_id": "22430",
+		"address": "760 Ocean Parkway, Harviell, Kentucky, 1672",
+		"phone": "+1 (884) 429-2762",
+		"name": "Dancerity",
+		"tennantId": "81995",
+		"state": "New Hampshire",
+		"latitude": "-14.388438",
+		"longitude": "-27.031164",
+		"buildings": []
+	}, {
+		"_id": "45993",
+		"address": "959 Roosevelt Place, Belleview, New Jersey, 6755",
+		"phone": "+1 (952) 465-2966",
+		"name": "Zanity",
+		"tennantId": "81995",
+		"state": "Mississippi",
+		"latitude": "73.492315",
+		"longitude": "172.919149",
+		"buildings": []
+	}, {
+		"_id": "68629",
+		"address": "737 Richards Street, Mammoth, Northern Mariana Islands, 2171",
+		"phone": "+1 (964) 457-2963",
+		"name": "Verton",
+		"tennantId": "81995",
+		"state": "Hawaii",
+		"latitude": "71.915178",
+		"longitude": "81.087887",
+		"buildings": []
+	}]
+}, {
+	"_id": "37614",
+	"isActive": false,
+	"logo": "images/8.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "TECHTRIX",
+	"phone": "+1 (846) 593-3735",
+	"address": "619 Grand Street, Kirk, North Dakota, 1896",
+	"email": "techtrix@techtrix.biz",
+	"properties": [{
+		"_id": "61077",
+		"address": "386 Noel Avenue, Glasgow, Iowa, 3514",
+		"phone": "+1 (813) 435-3813",
+		"name": "Injoy",
+		"tennantId": "37614",
+		"state": "Georgia",
+		"latitude": "-12.168632",
+		"longitude": "4.93402",
+		"buildings": []
+	}, {
+		"_id": "41936",
+		"address": "969 Adelphi Street, Bartley, Rhode Island, 8744",
+		"phone": "+1 (978) 408-3474",
+		"name": "Typhonica",
+		"tennantId": "37614",
+		"state": "West Virginia",
+		"latitude": "-37.817545",
+		"longitude": "-53.926588",
+		"buildings": []
+	}, {
+		"_id": "24914",
+		"address": "849 Portland Avenue, Nescatunga, Alaska, 6967",
+		"phone": "+1 (865) 580-2993",
+		"name": "Lyria",
+		"tennantId": "37614",
+		"state": "South Dakota",
+		"latitude": "-21.53241",
+		"longitude": "15.651852",
+		"buildings": []
+	}, {
+		"_id": "46778",
+		"address": "353 Albemarle Terrace, Dennard, Virgin Islands, 8824",
+		"phone": "+1 (898) 548-3224",
+		"name": "Unisure",
+		"tennantId": "37614",
+		"state": "Nebraska",
+		"latitude": "-62.80663",
+		"longitude": "-63.130575",
+		"buildings": []
+	}, {
+		"_id": "73191",
+		"address": "337 Liberty Avenue, Bowie, Montana, 3172",
+		"phone": "+1 (943) 547-3891",
+		"name": "Songlines",
+		"tennantId": "37614",
+		"state": "Guam",
+		"latitude": "-62.058593",
+		"longitude": "40.355294",
+		"buildings": []
+	}, {
+		"_id": "01862",
+		"address": "564 Evans Street, Gambrills, Massachusetts, 7024",
+		"phone": "+1 (923) 590-2803",
+		"name": "Quintity",
+		"tennantId": "37614",
+		"state": "Utah",
+		"latitude": "-79.305039",
+		"longitude": "174.311683",
+		"buildings": []
+	}, {
+		"_id": "81484",
+		"address": "868 Bridge Street, Bennett, Oregon, 8576",
+		"phone": "+1 (961) 484-3692",
+		"name": "Soprano",
+		"tennantId": "37614",
+		"state": "Oklahoma",
+		"latitude": "-33.962638",
+		"longitude": "-56.371656",
+		"buildings": []
+	}, {
+		"_id": "83820",
+		"address": "572 Caton Avenue, Libertytown, Maine, 3646",
+		"phone": "+1 (853) 403-3291",
+		"name": "Qualitern",
+		"tennantId": "37614",
+		"state": "Delaware",
+		"latitude": "67.948465",
+		"longitude": "176.48754",
+		"buildings": []
+	}, {
+		"_id": "76915",
+		"address": "443 Estate Road, Flintville, New Mexico, 4249",
+		"phone": "+1 (863) 576-3657",
+		"name": "Eplosion",
+		"tennantId": "37614",
+		"state": "Michigan",
+		"latitude": "27.205143",
+		"longitude": "-68.447427",
+		"buildings": []
+	}]
+}, {
+	"_id": "45415",
+	"isActive": true,
+	"logo": "images/9.jpg",
+	"picture": "https://placeholder.com/wp-content/uploads/2018/10/placeholder.com-logo3.jpg",
+	"name": "PYRAMIA",
+	"phone": "+1 (839) 474-3487",
+	"address": "689 Applegate Court, Ironton, Federated States Of Micronesia, 3426",
+	"email": "pyramia@pyramia.us",
+	"properties": [{
+		"_id": "07505",
+		"address": "937 Louisiana Avenue, Matthews, Arizona, 2874",
+		"phone": "+1 (898) 535-3864",
+		"name": "Glukgluk",
+		"tennantId": "45415",
+		"state": "Indiana",
+		"latitude": "81.433168",
+		"longitude": "141.001286",
+		"buildings": []
+	}, {
+		"_id": "95652",
+		"address": "687 Berriman Street, Staples, Puerto Rico, 6859",
+		"phone": "+1 (989) 424-2468",
+		"name": "Sealoud",
+		"tennantId": "45415",
+		"state": "American Samoa",
+		"latitude": "54.680191",
+		"longitude": "-175.413846",
+		"buildings": []
+	}, {
+		"_id": "87414",
+		"address": "626 Brightwater Avenue, Waverly, Wyoming, 5556",
+		"phone": "+1 (891) 590-3351",
+		"name": "Geekular",
+		"tennantId": "45415",
+		"state": "Pennsylvania",
+		"latitude": "-79.300317",
+		"longitude": "-166.187075",
+		"buildings": []
+	}, {
+		"_id": "80855",
+		"address": "146 Ross Street, Lewis, Connecticut, 7474",
+		"phone": "+1 (913) 424-2699",
+		"name": "Maxemia",
+		"tennantId": "45415",
+		"state": "Florida",
+		"latitude": "30.811764",
+		"longitude": "114.795921",
+		"buildings": []
+	}, {
+		"_id": "31257",
+		"address": "152 Joralemon Street, Hardyville, Ohio, 8861",
+		"phone": "+1 (977) 520-3289",
+		"name": "Centree",
+		"tennantId": "45415",
+		"state": "Virginia",
+		"latitude": "-73.685459",
+		"longitude": "-7.51797",
+		"buildings": []
+	}, {
+		"_id": "98478",
+		"address": "637 Varanda Place, Madaket, New York, 8341",
+		"phone": "+1 (817) 527-2081",
+		"name": "Remotion",
+		"tennantId": "45415",
+		"state": "Minnesota",
+		"latitude": "-52.518105",
+		"longitude": "-130.250333",
+		"buildings": []
+	}]
+}]

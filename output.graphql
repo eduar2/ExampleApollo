@@ -1,0 +1,66 @@
+type Building {
+  _id: String
+  address: String
+  phone: String
+  name: String
+  propertyId: String
+  state: String
+  latitude: String
+  longitude: String
+}
+
+type BuildingsConnection {
+	items: [Building]
+	nextToken: String
+}
+
+type PropertiesConnection {
+	items: [Property]
+	nextToken: String
+}
+
+type Property {
+  _id: String
+  address: String
+  phone: String
+  name: String
+  tennantId: String
+  state: String
+  latitude: String
+  longitude: String
+  buildings: [Building]
+}
+
+type Tennant {
+  _id: String
+  isActive: Boolean
+  logo: String
+  picture: String
+  name: String
+  phone: String
+  address: String
+  properties: [Propery]
+}
+
+type TennantsConnection {
+	items: [Tennant]
+	nextToken: String
+}
+
+type TennantSearch {
+  
+}
+
+type PropertySearch {
+  tennantId: String  
+}
+
+type BuildingSearch {
+  tennantId: String
+}
+
+type Query {
+  tennants(search: TennantSearch): TennantsConnection
+  properties(search: PropertySearch): PropertyConnection
+  buildings(search: BuildingSearch): BuildingConnection
+}
